@@ -8,7 +8,7 @@ public class Calculadora {
         int a, b;
         System.out.println("Digite o primeiro número:");
         a= scan.nextInt();
-        System.out.println("Digide o segundo número");
+        System.out.println("Digite o segundo número");
         b= scan.nextInt();
 
         int soma = soma(a, b);
